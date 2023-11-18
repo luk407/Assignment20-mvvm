@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09596935-31C3-4B95-9D69-48943681F820"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A233889-81BF-471A-AB40-3AAA55442353"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../.Trash/Assignment20/Assignment20-mvvm/Assignment20-mvvm/MVVM/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchMovieData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A233889-81BF-471A-AB40-3AAA55442353 - 217ce37bd03c6c59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment20_mvvm.MovieViewModel.fetchMovieData() -&gt; ()"
+                  moduleName = "Assignment20-mvvm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luka/.Trash/Assignment20/Assignment20-mvvm/Assignment20-mvvm/MVVM/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "2A233889-81BF-471A-AB40-3AAA55442353 - 217ce37bd03c6c59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment20_mvvm.MovieViewModel.fetchMovieData() -&gt; ()"
+                  moduleName = "Assignment20-mvvm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luka/.Trash/Assignment20/Assignment20-mvvm/Assignment20-mvvm/MVVM/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "203B0A7A-476A-428C-8911-C6113F000A02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../.Trash/Assignment20/Assignment20-mvvm/Assignment20-mvvm/MVVM/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchMovieData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
